@@ -1,0 +1,5 @@
+.vscode
+build
+*.pth
+__pycache__
+model
